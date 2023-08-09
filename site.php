@@ -19,6 +19,11 @@
   $phrase = "To be or not to be <br>";
   echo $phrase;
   ?>
+  <?php
+  echo ("Array");
+  $friends = array("Kevin", "Karen", "Oscar");
+  echo $friends[0];
+  ?>
 </body>
 
 </html>
